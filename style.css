@@ -1,0 +1,55 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+body{
+    background-color: black;
+}
+h1{
+    font-family:"segoe ui",verdana,sans-serif;
+    color: white;
+    background-image: url(/img/Records.jpg);
+    text-align: center;
+    
+    font-size: 100px;
+    font-weight: bold;
+}
+h2{
+    font-family:segoe ui,verdana,sans-serif;
+    background-color: #ef8354;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bol;
+    
+}
+
+img{
+    max-width: 500px;
+}
+
+p{
+    color: white;
+    font-family: font-family:segoe ui,verdana,sans-serif;
+}
+
+span{
+    font-weight: bold;
+
+}
+
+#selling{
+    color: white;
+    background-color: #0e7c7b;
+}
+#music{
+    color: white;
+    background-color: #9c538b
+
+}
+
+a:link{
+    color: #ef8354;
+}
+a:hover{
+    color: #9c528b;
+}
+footer{
+    text-align: center;
+}
